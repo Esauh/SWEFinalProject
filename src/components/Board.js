@@ -42,7 +42,7 @@ const Board = () => {
   }, [score]);
 
   const submit = async () => {
-    await addDoc(collection(db, "LeaderBoards"), {
+    await addDoc(collection(db, "users"), {
       score,
       timestamp: serverTimestamp(),
       user: auth.currentUser.displayName,

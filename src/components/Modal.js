@@ -11,7 +11,7 @@ const Modal = () => {
   const { db_scores } = useSelector((state) => state.game);
 
   const getData = async () => {
-    const messageRef = collection(db, "LeaderBoards");
+    const messageRef = collection(db, "users");
     const q = query(messageRef, orderBy("score", "desc"), limit(10));
     const queryData = await getDocs(q);
     const data = [];
