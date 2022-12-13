@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06675afc.css",
+    "main.js": "/static/js/main.94189bc6.js",
+    "static/js/496.22172ecd.chunk.js": "/static/js/496.22172ecd.chunk.js",
+    "static/media/Background.png": "/static/media/Background.0c7d0096405565ba5071.png",
+    "static/media/trophy.png": "/static/media/trophy.79b41ba5ab42d1c40956.png",
+    "static/media/missclick.png": "/static/media/missclick.d9370f2153081b95c700.png",
+    "static/media/loading.gif": "/static/media/loading.75c4521334e47c6e3303.gif",
+    "index.html": "/index.html",
+    "main.06675afc.css.map": "/static/css/main.06675afc.css.map",
+    "main.94189bc6.js.map": "/static/js/main.94189bc6.js.map",
+    "496.22172ecd.chunk.js.map": "/static/js/496.22172ecd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06675afc.css",
+    "static/js/main.94189bc6.js"
+  ]
+}
